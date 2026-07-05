@@ -18,7 +18,7 @@
 
 ### Coming Soon
 
->**TOOLS USED:** Visual Studio, XCode
+>**TOOLS USED:** Visual Studio, XCode, Claude
 
 ## <h2>Cybersecurity Projects</h2>
 
