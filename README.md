@@ -62,7 +62,7 @@ Coming Soon
 
 ## <h2>Education</h2>
 
-- *Bachelors of Science, Business Administration w/ concentration in Project MAnagement & Information Systems w/ Business Track (Towson University)*
+- *Bachelors of Science, Business Administration w/ concentration in Project Management & Information Systems w/ Business Track (Towson University)*
 
 ## <h2>Cybersecurity Certifications</h2>
 
