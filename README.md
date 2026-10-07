@@ -4,7 +4,7 @@
 
 <h2>ABOUT ME</h2>
 
-### *I'm a college student attending Towson University, dual-majoring in Business Administration with a concentration in Project Management/Business Analysis and Information Systems under the Business Track.*
+### *I'm a college student attending Towson University, dual-majoring in Business Administration with a concentration in Project Management/Business Analysis and Information Technology under the Network Security Track.*
 
 >**Career Plans:** My goal is to apply my academic knowledge to a career in project management and technology.
 
