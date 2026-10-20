@@ -21,7 +21,9 @@
 >**TOOLS USED:** Visual Studio, XCode, Claude
 
 ## <h2>AI-Based Projects</h2>
+>**ITECH AWS AI LAB**<
 [https://73hef5cy6ee6qiacvxru3riw540btgsm.lambda-url.us-east-1.on.aws/]
+>**TOOLS USED:** AWS, Lambda, Claude
 
 ## <h2>Cybersecurity Projects</h2>
 
